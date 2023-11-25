@@ -1,0 +1,19 @@
+.margintop{
+    margin-top: 50px;
+}
+.margintop1{
+    margin-top: 30px;
+}
+
+.staff{
+    background-color: #3498db;
+    font-size: 20px;
+}
+.patient{
+   
+    background-color: #d35400;
+    font-size: 20px;
+}.absence{
+    background-color: #8e44ad;
+    font-size: 20px;
+}
